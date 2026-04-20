@@ -1,3 +1,3 @@
 <? php 
-  echo "BONJOURS"
+  echo ("BONJOURS");
 ?>
